@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a polyglot programmer. I love building software & find joy in finding solution to problems.
+I am a polyglot programmer. I love building software & finding solutions to problems.
 - 💬 Ask me about Software Architecture, Java, Async Programming, Distributed Systems, Microservices
 - 👯 I’m always up for a challenge, and ready to collaborate and make some awesome friends along the way. 
 - 📫 How to reach me: girishkumar.atul@gmail.com
