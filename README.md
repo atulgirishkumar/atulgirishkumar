@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a polyglot programmer. I love building software & find joy in finding solution to problems.
+💬 Ask me about Software Architecture, Java, Async Programming, Distributed Systems, Microservices
+👯 I’m always up for a challenge, and ready to collaborate and make some awesome friends along the way. 
+📫 How to reach me: girishkumar.atul@gmail.com
 
 <!--
 **atulgirishkumar/atulgirishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
